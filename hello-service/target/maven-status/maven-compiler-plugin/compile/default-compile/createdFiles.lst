@@ -1,5 +1,0 @@
-com\exploreandlearn\HelloService.class
-com\exploreandlearn\autoconfigure\HelloProperties.class
-com\exploreandlearn\CustomHelloService.class
-META-INF\spring-configuration-metadata.json
-com\exploreandlearn\autoconfigure\HelloAutoConfiguration.class
